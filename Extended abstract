@@ -1,0 +1,19 @@
+extended abstract
+
+https://www.scientificamerican.com/article/the-limits-of-quantum-computers/
+
+Maintaining foundamental propreties of important documents, like secrecy and autenticity, through the process of digitalization has been one of
+the main quests of the last decades.
+These qualities have been currenty achieved mainly by the routh of cleaver mathematics, exploiting proprietis of our current computing machines and
+expecially the knowledge, although not cristal clear, of what they can or can't do in a reasonable time.
+These tecniques that are omnipresent today could be no longer valid when new computing machines based on different physical principles become more capable.
+In fact, although quantum computers are equally capable as classical computers in terms of what they can compute, they probably can compute some
+foundamental problems more quickly and this feature of them can be used to break our current secure information systems.
+Quantum computers are surely promising in that regards but their capabilities are limited both by theorical boundaries and pratical issues.
+The biggest of these issues that limits, at least for now, how their computing power can grow is the interaction between qubits and the external world.
+Quantum algorithms are in fact probabilistic algorithms that work by maximizing the probability of measuring the state corresponding to the solution and
+these interaction tend to flatten the distribution of the possible measurements.
+
+
+
+
